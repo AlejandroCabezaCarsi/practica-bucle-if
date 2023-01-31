@@ -1,0 +1,16 @@
+public class Main {
+    public static void main(String[] args) {
+        var numero = 6;
+
+            if (numero < (0)) ;{
+                System.out.println("ES NEGATIVO");
+
+            } else if (numero > (0)) ;{
+                System.out.println("ES POSITIVO");
+
+            } else (numero == (0)) ;{
+                System.out.println("ES CERO");
+            }
+
+    }
+}
